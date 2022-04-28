@@ -1,0 +1,36 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+ 
+ 
+ }
+ .topic{
+   justify-content: center;
+ 
+ }
+ .holder{
+   width: 25%;
+   height: 200px;
+ }
+ .holder>img{
+   height: 100%;
+   width: 100%;
+ }
+ .pic{
+   display: flex;
+   flex-direction: column;
+ }
+ .b{
+   margin-left: 30%;
+ }
+ .c{
+   margin-left: 60%;
+ }
+ .topic{
+  margin-left: 50%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.grid{
+  background-color: bisque;
+  font-size: 30px;

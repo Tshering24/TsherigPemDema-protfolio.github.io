@@ -1,0 +1,27 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+ 
+ 
+ }
+ .Ten{
+   background-color: antiquewhite;
+   width: 70%;
+ }
+ .Tweleve{
+  background-color: antiquewhite;
+  width: 70%;
+ }
+ .Diploma{
+   background-color: antiquewhite;
+   width: 70%;
+ }
+ .Graduation{
+   background-color: antiquewhite;
+   width: 70%;
+ }
+ .main{
+   display: flex;
+   margin-top: 10%;
+   justify-content: center;
+ }

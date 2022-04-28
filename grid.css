@@ -1,0 +1,29 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+ 
+ 
+ }
+ .all{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   justify-content: space-around;
+ }
+ .p{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+ }
+.m{
+  background-color: aquamarine;
+}
+.n{
+  background-color: bisque;
+}
+.o{
+  background-color:  bisque; 
+}
+.z{
+  background-color: aquamarine;
+}
+
+
